@@ -1,1 +1,33 @@
+[
+  {
+    "area": "Koramangala",
+    "latitude": 12.9352,
+    "longitude": 77.6245,
+    "harassment_cases": 55
+  },
+  {
+    "area": "Whitefield",
+    "latitude": 12.9698,
+    "longitude": 77.7499,
+    "harassment_cases": 18
+  },
+  {
+    "area": "Yelahanka",
+    "latitude": 13.1007,
+    "longitude": 77.5963,
+    "harassment_cases": 6
+  },
+  {
+    "area": "Indiranagar",
+    "latitude": 12.9784,
+    "longitude": 77.6408,
+    "harassment_cases": 32
+  },
+  {
+    "area": "BTM Layout",
+    "latitude": 12.9166,
+    "longitude": 77.6101,
+    "harassment_cases": 12
+  }
+]
 
