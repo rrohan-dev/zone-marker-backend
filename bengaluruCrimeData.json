@@ -1,33 +1,37 @@
 [
   {
-    "area": "Koramangala",
-    "latitude": 12.9352,
-    "longitude": 77.6245,
-    "harassment_cases": 55
+    "zone_name": "Koramangala PS",
+    "lat": 12.9352,
+    "lng": 77.6245,
+    "registered_cases": 120,
+    "unreported_factor": 0.6
   },
   {
-    "area": "Whitefield",
-    "latitude": 12.9698,
-    "longitude": 77.7499,
-    "harassment_cases": 18
+    "zone_name": "Indiranagar PS",
+    "lat": 12.9784,
+    "lng": 77.6408,
+    "registered_cases": 90,
+    "unreported_factor": 0.5
   },
   {
-    "area": "Yelahanka",
-    "latitude": 13.1007,
-    "longitude": 77.5963,
-    "harassment_cases": 6
+    "zone_name": "Whitefield PS",
+    "lat": 12.9698,
+    "lng": 77.7499,
+    "registered_cases": 70,
+    "unreported_factor": 0.4
   },
   {
-    "area": "Indiranagar",
-    "latitude": 12.9784,
-    "longitude": 77.6408,
-    "harassment_cases": 32
+    "zone_name": "Yelahanka PS",
+    "lat": 13.1007,
+    "lng": 77.5963,
+    "registered_cases": 30,
+    "unreported_factor": 0.3
   },
   {
-    "area": "BTM Layout",
-    "latitude": 12.9166,
-    "longitude": 77.6101,
-    "harassment_cases": 12
+    "zone_name": "BTM Layout PS",
+    "lat": 12.9166,
+    "lng": 77.6101,
+    "registered_cases": 50,
+    "unreported_factor": 0.5
   }
 ]
-
